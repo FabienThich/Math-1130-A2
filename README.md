@@ -6,4 +6,4 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/FabienThich/air-pollution.git
+   git clone https://github.com/FabienThich/Math-1130-A2.git
